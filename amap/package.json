@@ -2,6 +2,7 @@
   "name": "smin-amap",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://eliamlotonga.com/react.github.io",
   "devDependencies": {
     "autoprefixer-stylus": "0.14.0",
     "babel-eslint": "^8.0.3",
